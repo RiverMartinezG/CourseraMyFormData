@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Form Data</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="phone">Télefono</string>
+    <string name="email">Email</string>
+    <string name="description">Descripcion del contacto</string>
+    <string name="birthday">Fecha de nacimiento</string>
+    <string name="next">Siguiente</string>
+    <string name="confirm_data">Confirmar Datos</string>
+    <string name="formBirthday">Fecha de Nacimiento:</string>
+    <string name="dummy_date">06/04/1989</string>
+    <string name="dummy_fullname">River Martínez</string>
+    <string name="formPhone">Tel:</string>
+    <string name="formEmail">Email:</string>
+    <string name="dummy_email">rianmartinez@gmail.com</string>
+    <string name="dummy_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="editData">Editar Datos</string>
+    <string name="formDescription">Descripción</string>
+    <string name="dummy_phone">83492039</string>
+    <string name="pfullname">fullname</string>
+    <string name="pbirthday">birthday</string>
+    <string name="pyear">year</string>
+    <string name="pmonth">month</string>
+    <string name="pday">day</string>
+    <string name="pphone">phone</string>
+    <string name="pemail">email</string>
+    <string name="pdescription">description</string>
+</resources>
